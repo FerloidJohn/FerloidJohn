@@ -39,8 +39,8 @@
     <h3>My Hobbies:</h3>
     <ol>
         <li><a href="https://youtu.be/ZTCKsIzUlrw?si=XKChn8YI28MCTBaC">Playing Online Games</a></li>
-        <li><a href="[https://www.youtube.com/watch?v=KrrWC-GR1ow"](https://www.youtube.com/shorts/iYewxuCeQLg)>Playing Basketball</a></li>
-        <li><a href="[https://www.youtube.com/watch?v=OfJtRuEhHmE&t=21s"](https://www.youtube.com/watch?v=mD1Pi5YskVI)>Watching Manhwa</a></li>
+        <li><a href="https://www.youtube.com/watch?v=KrrWC-GR1ow"](https://www.youtube.com/shorts/iYewxuCeQLg)>Playing Basketball</a></li>
+        <li><a href="https://www.youtube.com/watch?v=OfJtRuEhHmE&t=21s"](https://www.youtube.com/watch?v=mD1Pi5YskVI)>Watching Manhwa</a></li>
     </ol>
     <h3>Work Experience:</h3>
     <table border="1">
