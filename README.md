@@ -41,6 +41,7 @@
         <li><a href="https://youtu.be/ZTCKsIzUlrw?si=XKChn8YI28MCTBaC">Playing Online Games</a></li>
         <li><a href="https://www.youtube.com/shorts/yi4Esg855Gc">Playing Basketball</a><li>
         <li><a href="https://www.youtube.com/watch?v=mD1Pi5YskVI">Watching Manhwa</a></li>
+        <li><a href="https://www.youtube.com/shorts/zHPfLBJRtaI">Anime Draw</a></li>
     </ol>
     <h3>Work Experience:</h3>
     <table border="1">
