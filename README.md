@@ -39,7 +39,7 @@
     <h3>My Hobbies:</h3>
     <ol>
         <li><a href="https://youtu.be/ZTCKsIzUlrw?si=XKChn8YI28MCTBaC">Playing Online Games</a></li>
-        <li><a href="[https://www.youtube.com/watch?v=KrrWC-GR1ow">Playing Basketball</a></li>
+        <li><a href="https://www.youtube.com/shorts/yi4Esg855Gc">Playing Basketball</a><li>
         <li><a href="https://www.youtube.com/watch?v=mD1Pi5YskVI">Watching Manhwa</a></li>
     </ol>
     <h3>Work Experience:</h3>
