@@ -1,9 +1,9 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <center>
         <tittle style="font-size:20px;">
-            <i style="color:rgb(238, 13, 13);">FERLOIDJOHN PERSONAL WEBSITE</i>
+            <i style="color:gray;">FERLOIDJOHN PERSONAL WEBSITE</i>
         </tittle>
     </center>
 </head>
@@ -34,7 +34,7 @@
     <ul>
         <li>Patisoy</li>
         <li>Matug</li>
-        <li><a href="https://www.youtube.com/watch?v=cOge3jwfo00">Mangape</a></li>
+        <li>Mangape</li>
     </ul>
     <h3>My Hobbies:</h3>
     <ol>
@@ -91,4 +91,3 @@
 
 </body>
 </html>
-
