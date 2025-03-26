@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 100px;
+}
+
+img {
+    background-color: rgb(252, 3, 3);
+}
+
+.bacon {
+    background-color: rgb(0, 180, 235);
+}
+
+.broccoli {
+    background-color: red;
+}
